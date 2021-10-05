@@ -39,6 +39,8 @@ ap
 apb
 api
 apis
+apn
+
 app
 applicationexit
 appnote
@@ -127,6 +129,7 @@ blockq
 blockqc
 blocktimems
 bloggedin
+blox
 bmasterinterface
 bmattributes
 bmaxpacketsize
@@ -140,6 +143,7 @@ bootloader
 bootstrapcdn
 bp
 br
+brasil
 brdh
 brdiv
 brdl
@@ -194,6 +198,9 @@ cd
 cdatastring
 cdc
 cec
+cellulardemo
+cellulardemotask
+cellularloglevel
 centre
 ceo
 cer
@@ -228,6 +235,7 @@ ckf
 ckm
 ckr
 cktim
+claro
 clearpendingirq
 cli
 clientauthentication
@@ -282,6 +290,9 @@ commecho
 comms
 commsfirst
 commslast
+commreceivecallbackthread
+commtaskthread
+commtaskthreadstarted
 comp
 comrx
 coms
@@ -395,7 +406,9 @@ cqueuereievefromisr
 cread
 creadonlyarray
 creadwritearray
+createfile
 createfileforrx
+createthread
 creceivedstring
 cren
 crend
@@ -494,6 +507,7 @@ describeendpoint
 describejobexecution
 deserialize
 deserialized
+deutsche
 dev
 developerguide
 devicepublickeyasciihex
@@ -524,6 +538,7 @@ dly
 dma
 dns
 dnstestnum
+docomo
 doctype
 doen
 doens
@@ -609,6 +624,7 @@ enterant
 entercriticalsectionstub
 entrancy
 entropycontext
+entrytimems
 enum
 enums
 envisionrx
@@ -651,10 +667,14 @@ etxck
 etxhigherpriority
 etxlowerpriority
 etype
+europe
+european
 eusci
 eval
 evb
 eventcallback
+eventgroup
+eventqueue
 evnt
 evt
 ewavr
@@ -729,6 +749,7 @@ fpga
 fpidiv
 fpu
 fr
+france
 framming
 fre
 fread
@@ -805,12 +826,14 @@ gpioe
 gpios
 greacefully
 grec
+gsm
 gree
 hal
 halboardinit
 hallcd
 hardfault
 hclk
+hcomm
 hcs
 hed
 hein
@@ -868,6 +891,7 @@ ic
 icc
 iccarm
 icciar
+iccid
 iccrx
 iclk
 icmp
@@ -890,6 +914,7 @@ iir
 il
 imanufacturer
 imrh
+imsi
 inb
 inc
 incase
@@ -1178,6 +1203,7 @@ mam
 masterrate
 matchtopic
 maxcdn
+maxdword
 maximise
 maxitems
 mbanumber
@@ -1223,6 +1249,7 @@ microsoft
 microzed
 mii
 mikroc
+miliseconds
 min
 mingw
 minilistitem
@@ -1235,6 +1262,8 @@ misra
 mkd
 mkdir
 mmcr
+mno
+mnos
 mosquitto
 mov
 movs
@@ -1329,6 +1358,7 @@ nt
 ntp
 ntpdemo
 nts
+ntt
 nullptr
 num
 numaker
@@ -1346,6 +1376,7 @@ oled
 olen
 olimex
 onboard
+onboarding
 oneshot
 op
 opendns
@@ -1401,6 +1432,7 @@ pactopic
 palpnprotos
 param
 paramater
+pargument
 partest
 partstall
 partstled
@@ -1422,6 +1454,7 @@ pc
 pca
 pcaction
 pcaddress
+pcallbackcontext
 pcap
 pcapplicationhostnamehook
 pcattrib
@@ -1442,6 +1475,8 @@ pcdatasentfrominterrupt
 pcdefenderresponse
 pcertfilepath
 pcextracontents
+pcellularcommcontext
+pcellularsocketcontext
 pcfakestring
 pcfile
 pcfilebuffer
@@ -1510,11 +1545,13 @@ pdfreertos
 pdigest
 pdlong
 pdms
+pdn
 pdpass
 pdr
 pdtrue
 pe
 peform
+pelapsedtimems
 pem
 pendsv
 perfrom
@@ -1548,6 +1585,7 @@ plaformimagestate
 plaintext
 plaintexthttpexample
 platformimagestate
+pleaseconsult
 plib
 plic
 pll
@@ -1656,8 +1694,10 @@ proj
 projcoverage
 promiscious
 prootca
+properoperation
 prot
 proto
+prototye
 prs
 prv
 prvabortcommand
@@ -1910,6 +1950,7 @@ pulsystemperipheralregister
 pultaskidarray
 pultaskidarraylength
 pultaskidsarray
+puserdata
 pusername
 pusopenportsarray
 pusouttcpportsarray
@@ -2038,10 +2079,14 @@ rcvtimeo
 rdparty
 readbale
 readdir
+readintervaltimeout
 readme
 readonly
+readtotaltimeoutconstant
+readtotaltimeoutmultiplier
 reblocked
 receiveloop
+receivetimeout
 receivetimeoutms
 recmucontrolling
 recmutex
@@ -2052,6 +2097,7 @@ recognises
 recorderdata
 recv
 recvfrom
+recvtimeout
 referencetimestamp
 reflash
 reg
@@ -2154,6 +2200,7 @@ samd
 sampleapp
 sampleapptask
 santity
+sara
 sarecomtesttasksstillrunning
 saveall
 sbnumber
@@ -2183,6 +2230,7 @@ semtest
 semtestc
 sendb
 sendpingrequest
+sendtimeout
 sendtimeoutms
 sendto
 sep
@@ -2206,6 +2254,7 @@ setimagestate
 setpollisr
 setpriority
 setsockopt
+setupcellular
 sfena
 sfprld
 sfr
@@ -2239,6 +2288,7 @@ simultaniously
 singletasks
 sizeof
 sk
+skt
 slewrate
 slibxr
 smc
@@ -2258,8 +2308,11 @@ sntptask
 soc
 sockaddr
 socketauto
+sockethandle
+socketserrors
 socklen
 sof
+softbank
 softbaugh
 somewebsite
 sp
@@ -2382,6 +2435,10 @@ tcptesttcp
 tcptesttx
 td
 teardown
+telecom
+telekom
+telstra
+Telus
 tei
 temo
 temt
@@ -2400,6 +2457,7 @@ tha
 thingname
 thingnamelength
 thr
+threadroutine
 thre
 throwtheswitch
 ths
@@ -2409,6 +2467,7 @@ ticktype
 tiemr
 tim
 timeguard
+timeoutvaluems
 timertest
 timertimer
 timeserver
@@ -2656,6 +2715,8 @@ unusued
 updatejobexecution
 uploadhttpexample
 upto
+urc
+urcevent
 uri
 url
 urls
@@ -2700,6 +2761,7 @@ utalised
 utc
 utest
 util
+utilies
 utilise
 utilised
 utils
@@ -2796,6 +2858,7 @@ veify
 veirfy
 vemacread
 verifyinit
+verizon
 verrorchecks
 veventgroupclearbitscallback
 veventgroupdelete
@@ -2830,6 +2893,7 @@ vmaindeleteme
 vmainpoststopprocessing
 vmemchecktask
 vmov
+vodafone
 votademotask
 vpartestinitialise
 vpartesttoggleled
@@ -2903,6 +2967,7 @@ vtaskplaceoneventlistrestricted
 vtaskpriorityset
 vtaskresume
 vtaskresumeall
+vtasksettimeoutstate
 vtaskstartscheduler
 vtaskstarttrace
 vtasksuspend
@@ -2941,6 +3006,7 @@ wiznet
 wmaxpacketsize
 wolfssl
 wpa
+writefile
 ws
 www
 xa
@@ -3113,6 +3179,7 @@ xmethodlen
 xmode
 xmoredatatofollow
 xmqttsocket
+xmutex
 xmutexholder
 xmutextodelete
 xnetworkbuffer
